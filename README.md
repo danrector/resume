@@ -1,6 +1,6 @@
-#Daniel Rector
+# Daniel Rector
 
-###Contact
+### Contact
 
 [Email](mailto:rector.danielk@gmail.com?subject=Hello&body=Hi)
 
@@ -8,13 +8,13 @@
 
 [Twitter](https://twitter.com/danielkrector)
 
-###About Me
+### About Me
 
 Hello, my name is Daniel. I'm a full stack developer based in Tennessee. My passions are for creative solutions and constant learning.
 
 
 
-###Work Experience:
+### Work Experience:
 
 **Intern @ VenturX** (July 2016 - December 2016)
 
@@ -30,7 +30,7 @@ Examples:
 * [my recreation of an open directory](https://brutality.herokuapp.com)
 
 
-###Other Work:
+### Other Work:
 
 **Visual Associate @ Forever 21** (2013 - Present)
 
@@ -39,7 +39,7 @@ Daily responsibilities:
 * Marketing
 * Team Communication and Training
 
-###Education:
+### Education:
 
 University of Tennessee, Knoxville (2009 - 2013):
 	Business, Geology

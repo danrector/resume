@@ -32,7 +32,7 @@ Examples:
 
 ### Other Work:
 
-**Visual Associate @ Forever 21** (2013 - Present)
+**Visual @ Forever 21** (2013 - Present)
 
 Daily responsibilities:
 * Merchandising

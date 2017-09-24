@@ -20,7 +20,7 @@ Hello, my name is Daniel. I'm a full stack developer based in Tennessee. My pass
 
 Worked on production MEAN stack web app, remotely. Was responsible for triaging and resolving software bugs. Also provided direct support for users of the app. Additionally, was responsible for implementing new frontend features. Finally, was responsible for server maintenance and deployment.
 
-**Personal Projects** (2014 - Present):
+**Personal Projects** (2014 - Present)
 
 Built personal web apps using React and Node.js. Also experimented with iOS programming (using Objective-C and Swift) and game design (with scripting in C#).
 

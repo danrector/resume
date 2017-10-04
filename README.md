@@ -25,9 +25,9 @@ Worked on production MEAN stack web app, remotely. Was responsible for triaging 
 Built personal web apps using React and Node.js. Also experimented with iOS programming (using Objective-C and Swift) and game design (with scripting in C#).
 
 Examples:
-* [personal site](https://drector1.github.io/updated-site/)
-* [images I take of weird comics](https://out-of-context-comics.herokuapp.com)
-* [my recreation of an open directory](https://brutality.herokuapp.com)
+* [personal site](https://drector1.github.io/updated-site/)		[(github)](https://github.com/drector1/updated-site)
+* [images I take of weird comics](https://out-of-context-comics.herokuapp.com)		[(github)](https://github.com/drector1/out-of-context-comics)
+* [my recreation of an open directory](https://brutality.herokuapp.com)		[(github)](https://github.com/drector1/brutality)
 
 
 ### Other Work:

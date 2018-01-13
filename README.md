@@ -29,16 +29,6 @@ Examples:
 * [images I take of weird comics](https://out-of-context-comics.herokuapp.com)		[(github)](https://github.com/drector1/out-of-context-comics)
 * [my recreation of an open directory](https://brutality.herokuapp.com)		[(github)](https://github.com/drector1/brutality)
 
-
-### Other Work:
-
-**Visual @ Forever 21** (2013 - Present)
-
-Daily responsibilities:
-* Merchandising
-* Marketing
-* Team Communication and Training
-
 ### Education:
 
 University of Tennessee, Knoxville (2009 - 2013):

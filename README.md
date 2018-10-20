@@ -4,7 +4,7 @@
 
 [Email](mailto:rector.danielk@gmail.com?subject=Hello&body=Hi)
 
-[Website](https://drector1.github.io/updated-site/)
+[Website](https://danielkrector.com)
 
 [Twitter](https://twitter.com/danielkrector)
 

@@ -10,7 +10,7 @@
 
 ### About Me
 
-Hi, my name is Daniel. I'm a Senior 2nd Tier Engineer based in Tennessee. I like learning new technolgies and pushing what is possible. 
+Hi, my name is Daniel. I'm a Senior 2nd Tier Engineer based in Tennessee. I like learning new technolgies and pushing what is possible. 👍🏻
 
 ### Work Experience:
 
@@ -20,7 +20,7 @@ Handled advanced troubleshooting involving Azure, APIs, Webhooks, Zoom/WebEx and
 
 **Freelance Web Development** (January 2017 - March 2018)
 
-Worked on freelance projects. 
+Worked on freelance projects using React.js. 
 
 **Intern @ VenturX** (July 2016 - December 2016)
 

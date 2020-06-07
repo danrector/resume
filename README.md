@@ -10,7 +10,7 @@
 
 ### About Me
 
-Hello, my name is Daniel. I'm a web developer based in Tennessee. My passions are for creative solutions and constant learning.
+Hello, my name is Daniel. I'm a Senior 2nd Tier Engineer based in Tennessee. I like learning new technolgies and pushing what is possible. 
 
 ### Work Experience:
 

@@ -10,7 +10,7 @@
 
 ### About Me
 
-Hello, my name is Daniel. I'm a Senior 2nd Tier Engineer based in Tennessee. I like learning new technolgies and pushing what is possible. 
+Hi, my name is Daniel. I'm a Senior 2nd Tier Engineer based in Tennessee. I like learning new technolgies and pushing what is possible. 
 
 ### Work Experience:
 
@@ -24,7 +24,7 @@ Worked on freelance projects.
 
 **Intern @ VenturX** (July 2016 - December 2016)
 
-Worked on production MEAN stack web app, remotely. Was responsible for triaging and resolving software bugs. Also provided direct support for users of the app. Additionally, was responsible for implementing new frontend features. Finally, was responsible for server maintenance and deployment.
+MEAN full stack developer. Responsible for triaging and resolving bugs, implementing new frontend features, and server maintenance/deployment.
 
 ### Education:
 

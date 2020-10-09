@@ -15,7 +15,7 @@ Hi, my name is Daniel. I'm a Senior 2nd Tier Engineer based in Tennessee. I like
 ### Work Experience:
 
 **Senior 2nd Tier Engineer @ [OnceHub](https://www.oncehub.com)** (October 2019 - Present)
-Continuing to handle advanced troubleshooting involving Azure, APIs, Webhooks, Zoom/WebEx and Salesforce. Also, working heavliy with SQL, developing custom HTML/JS for clients and advising on custom integrations. 
+Continuing to handle advanced troubleshooting involving Azure, APIs, Webhooks, Zoom/WebEx and Salesforce. Also, developing custom HTML/JS for clients, advising on custom integrations, and working heavliy with SQL. 
 
 **2nd Tier Specialist @ [OnceHub](https://www.oncehub.com)** (January 2019 - October 2019)
 Continued to monitor all VIP interactions in 1st tier support, additionally started monitoring all 2nd and 3rd tier VIP interactions. Handled advanced troubleshooting involving Azure, APIs, Webhooks, Zoom/WebEx and Salesforce.

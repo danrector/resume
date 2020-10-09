@@ -2,7 +2,7 @@
 
 ### Contact
 
-[Email](mailto:rector.danielk@gmail.com?subject=Hello&body=Hi)
+[Email](mailto:hello@danielkrector.com?subject=Hello&body=Hi)
 
 [Website](https://danielkrector.com)
 

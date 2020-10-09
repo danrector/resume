@@ -24,11 +24,9 @@ Continued to monitor all VIP interactions in 1st tier support, additionally star
 Specialized in handling VIP/large account cases. Was tasked with monitoring all VIP interactions and was the main point of contact for VIPs in 1st tier support. 
 
 **Freelance Web Development** (January 2017 - March 2018)
-
 Worked on freelance projects using React.js. 
 
 **Intern @ VenturX** (July 2016 - December 2016)
-
 MEAN full stack developer. Responsible for triaging and resolving bugs, implementing new frontend features, and server maintenance/deployment.
 
 ### Education:

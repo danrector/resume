@@ -10,7 +10,7 @@
 
 ### About Me
 
-Hi, my name is Daniel. I'm a Senior 2nd Tier Engineer based in Tennessee. I like learning new technolgies and pushing what is possible. 👍🏻
+Hi, my name is Daniel. I'm a Senior 2nd Tier Engineer based in Tennessee. I like learning new technologies and pushing what is possible. 👍🏻
 
 ### Work Experience:
 
